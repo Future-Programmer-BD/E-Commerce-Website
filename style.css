@@ -1,0 +1,45 @@
+.color-text{
+color: tomato;
+}
+h1{
+    font-size: 50px;
+
+}
+section{
+    height: 1000px;
+}
+.half-body{
+    width: 40%;
+    float: left;
+    padding: 2%;
+    margin: 3%;
+}
+.half-body img{
+   height: 100%;
+    overflow: hidden;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,blue,cyan);
+    padding: 15px 20px;
+    color: white;
+
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.half-body p{
+    margin-bottom: 30px;
+    font: 700;font-size: 20px;
+}
+h3{
+    font-size: 40px;
+}
+.latest{
+    margin-top: 20px;
+    float: left;
+    width: 20%;
+}
+.work{
+    height: 1200px;
+}
